@@ -29,7 +29,7 @@ Let's get it! 💪
   	- [x] 🖥 OSEP - Chapter 5
   	- [x] 🖥 OSEP - Chapter 6
   - [ ] 🖥 OSEP - challenge Labs:
-  	- [ ] 🖥 OSEP - Challenge Lab - 1
+  	- [x] 🖥 OSEP - Challenge Lab - 1
   	- [ ] 🖥 OSEP - Challenge Lab - 2
 #### OSWP
 - Duration: ..TBD..

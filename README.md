@@ -1,7 +1,7 @@
 Taking on the challenge to pass OSEP, OSWP, and KLCP from OffSec in the next 23 days! 
 
 <p align="center">
-<img src=./img/-23.jpg width=80% >
+<img src=./img/-23.jpg width=100% >
 </p>
 
 > It's all about focus, determination, and pushing boundaries.

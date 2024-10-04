@@ -14,20 +14,32 @@ Let's get it! 💪
 
 - Duration: ..TBD..
 - Tasks:
-  - [x]  🖥 OSEP - PDF:
+  - [ ]  🖥 OSEP - PDF:
   	- [x] 🖥 OSEP - Chapter 1 + Notes
   	- [x] 🖥 OSEP - Chapter 2 + Notes
   	- [x] 🖥 OSEP - Chapter 3 + Notes
   	- [x] 🖥 OSEP - Chapter 4 + Notes
   	- [x] 🖥 OSEP - Chapter 5 + Notes
   	- [x] 🖥 OSEP - Chapter 6 + Notes
-  - [x] 🖥 OSEP - Videos:
+  	- [x] 🖥 OSEP - Chapter 7 + Notes
+  	- [ ] 🖥 OSEP - Chapter 8 + Notes
+  	- [ ] 🖥 OSEP - Chapter 9 + Notes
+  	- [ ] 🖥 OSEP - Chapter 10 + Notes
+  	- [ ] 🖥 OSEP - Chapter 11 + Notes
+  	- [ ] 🖥 OSEP - Chapter 12 + Notes
+  - [ ] 🖥 OSEP - Videos:
   	- [x] 🖥 OSEP - Chapter 1
   	- [x] 🖥 OSEP - Chapter 2
   	- [x] 🖥 OSEP - Chapter 3
   	- [x] 🖥 OSEP - Chapter 4
   	- [x] 🖥 OSEP - Chapter 5
   	- [x] 🖥 OSEP - Chapter 6
+  	- [x] 🖥 OSEP - Chapter 7
+  	- [ ] 🖥 OSEP - Chapter 8
+  	- [ ] 🖥 OSEP - Chapter 9
+  	- [ ] 🖥 OSEP - Chapter 10
+  	- [ ] 🖥 OSEP - Chapter 11
+  	- [ ] 🖥 OSEP - Chapter 12
   - [ ] 🖥 OSEP - challenge Labs:
   	- [x] 🖥 OSEP - Challenge Lab - 1
   	- [ ] 🖥 OSEP - Challenge Lab - 2

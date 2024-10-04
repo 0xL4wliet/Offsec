@@ -1,4 +1,4 @@
-Taking on the challenge to pass #OSEP, #OSWP, and #KLCP from OffSec in the next 23 days! 
+Taking on the challenge to pass OSEP, OSWP, and KLCP from OffSec in the next 23 days! 
 
 <p align="center">
 <img src=./img/-23.jpg width=80% >

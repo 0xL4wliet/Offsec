@@ -12,7 +12,7 @@ Let's get it! 💪
 ### Day #1 - 04-10-2024
 #### OSEP $${\color{green}(OSEP: -23 Days)}$$ 
 
-- Duration: ..TBD..
+- Duration: 9h 20m
 - Tasks:
   - [x]  🖥 OSEP - PDF:
   	- [x] 🖥 OSEP - Chapter 1 + Notes

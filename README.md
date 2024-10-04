@@ -32,10 +32,17 @@ Let's get it! 💪
   	- [x] 🖥 OSEP - Challenge Lab - 1
   	- [ ] 🖥 OSEP - Challenge Lab - 2
 #### OSWP
-- Duration: ..TBD..
+- Duration: 30 min
 - Tasks:
+  - [x] 🛜 OSWP - PDF:
+  	- [x] 🛜 OSWP - Chapter 1
+  	- [x] 🛜 OSWP - Chapter 2
+  - [x] 🛜 OSWP - Videos: N/A
 
 #### KLCP
-- Duration: ..TBD..
+- Duration: 30 min
 - Tasks:
+  - [x] 🐧 KLCP - PDF:
+  	- [x] 🐧 KLCP - Chapter 1
+  	- [x] 🐧 KLCP - Chapter 2
 ---

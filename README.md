@@ -27,7 +27,7 @@ Let's get it! 💪
   	- [ ] 🖥 OSEP - Chapter 10 + Notes
   	- [ ] 🖥 OSEP - Chapter 11 + Notes
   	- [ ] 🖥 OSEP - Chapter 12 + Notes
-  - [ ] 🖥 OSEP - Videos:
+  - [ ] 🖥 OSEP - Videos (2x speed):
   	- [x] 🖥 OSEP - Chapter 1
   	- [x] 🖥 OSEP - Chapter 2
   	- [x] 🖥 OSEP - Chapter 3

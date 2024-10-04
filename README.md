@@ -9,8 +9,8 @@ Taking on the challenge to pass OSEP, OSWP, and KLCP from OffSec in the next 23 
 Let's get it! 💪 
 
 ---
-### Day #1 - 04-10-2024 $${\color{green}(OSEP: -23 Days)}$$ 
-#### OSEP
+### Day #1 - 04-10-2024
+#### OSEP $${\color{green}(OSEP: -23 Days)}$$ 
 
 - Duration: ..TBD..
 - Tasks:
@@ -31,7 +31,7 @@ Let's get it! 💪
   - [ ] 🖥 OSEP - challenge Labs:
   	- [x] 🖥 OSEP - Challenge Lab - 1
   	- [ ] 🖥 OSEP - Challenge Lab - 2
-#### OSWP
+#### OSWP $${\color{blue}(OSWP: -23 Days)}$$ 
 - Duration: 30 min
 - Tasks:
   - [x] 🛜 OSWP - PDF:
@@ -39,7 +39,7 @@ Let's get it! 💪
   	- [x] 🛜 OSWP - Chapter 2
   - [x] 🛜 OSWP - Videos: N/A
 
-#### KLCP
+#### KLCP $${\color{gray}(KLCP: -23 Days)}$$ 
 - Duration: 30 min
 - Tasks:
   - [x] 🐧 KLCP - PDF:

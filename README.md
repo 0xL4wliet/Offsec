@@ -23,7 +23,7 @@ Let's get it! 💪
   	- [x] 🖥 OSEP - Chapter 6 + Notes
   	- [x] 🖥 OSEP - Chapter 7 + Notes
   	- [x] 🖥 OSEP - Chapter 8 + Notes
-  	- [ ] 🖥 OSEP - Chapter 9 + Notes
+  	- [x] 🖥 OSEP - Chapter 9 + Notes
   	- [ ] 🖥 OSEP - Chapter 10 + Notes
   	- [ ] 🖥 OSEP - Chapter 11 + Notes
   	- [ ] 🖥 OSEP - Chapter 12 + Notes
@@ -36,7 +36,7 @@ Let's get it! 💪
   	- [x] 🖥 OSEP - Chapter 6
   	- [x] 🖥 OSEP - Chapter 7
   	- [x] 🖥 OSEP - Chapter 8
-  	- [ ] 🖥 OSEP - Chapter 9
+  	- [x] 🖥 OSEP - Chapter 9
   	- [ ] 🖥 OSEP - Chapter 10
   	- [ ] 🖥 OSEP - Chapter 11
   	- [ ] 🖥 OSEP - Chapter 12

@@ -9,7 +9,7 @@ Taking on the challenge to pass #OSEP, #OSWP, and #KLCP from OffSec in the next 
 Let's get it! 💪 
 
 
-### Day #1 - 04-10-2024 $${\color{red}(OSEP: -23 Days)}$$ 
+### Day #1 - 04-10-2024 $${\color{green}(OSEP: -23 Days)}$$ 
 #### OSEP
 
 - Duration: ..TBD..

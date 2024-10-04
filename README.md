@@ -14,7 +14,7 @@ Let's get it! 💪
 
 - Duration: ..TBD..
 - Tasks:
-  - [ ]  🖥 OSEP - PDF:
+  - [x]  🖥 OSEP - PDF:
   	- [x] 🖥 OSEP - Chapter 1 + Notes
   	- [x] 🖥 OSEP - Chapter 2 + Notes
   	- [x] 🖥 OSEP - Chapter 3 + Notes
@@ -26,8 +26,7 @@ Let's get it! 💪
   	- [x] 🖥 OSEP - Chapter 9 + Notes
   	- [x] 🖥 OSEP - Chapter 10 + Notes
   	- [x] 🖥 OSEP - Chapter 11 + Notes
-  	- [ ] 🖥 OSEP - Chapter 12 + Notes
-  - [ ] 🖥 OSEP - Videos (2x speed):
+  - [x] 🖥 OSEP - Videos (2x speed):
   	- [x] 🖥 OSEP - Chapter 1
   	- [x] 🖥 OSEP - Chapter 2
   	- [x] 🖥 OSEP - Chapter 3
@@ -40,9 +39,8 @@ Let's get it! 💪
   	- [x] 🖥 OSEP - Chapter 10
   	- [x] 🖥 OSEP - Chapter 11
   	- [ ] 🖥 OSEP - Chapter 12
-  - [ ] 🖥 OSEP - challenge Labs:
+  - [x] 🖥 OSEP - challenge Labs:
   	- [x] 🖥 OSEP - Challenge Lab - 1
-  	- [ ] 🖥 OSEP - Challenge Lab - 2
 #### OSWP $${\color{blue}(OSWP: -23 Days)}$$ 
 - Duration: 30 min
 - Tasks:

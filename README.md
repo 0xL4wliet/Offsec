@@ -38,9 +38,19 @@ Let's get it! 💪
   	- [x] 🖥 OSEP - Chapter 9
   	- [x] 🖥 OSEP - Chapter 10
   	- [x] 🖥 OSEP - Chapter 11
-  	- [ ] 🖥 OSEP - Chapter 12
   - [x] 🖥 OSEP - challenge Labs:
   	- [x] 🖥 OSEP - Challenge Lab - 1
+
+##### Modules (Chapters Progress
+<p align="center">
+<img src=./img/osep_modules_day_1.png width=100% >
+</p>
+
+##### Challenge Labs Progress
+<p align="center">
+<img src=./img/osep_chall_day_1.png width=100% >
+</p>
+
 #### OSWP $${\color{blue}(OSWP: -23 Days)}$$ 
 - Duration: 30 min
 - Tasks:

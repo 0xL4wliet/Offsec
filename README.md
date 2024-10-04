@@ -24,7 +24,7 @@ Let's get it! 💪
   	- [x] 🖥 OSEP - Chapter 7 + Notes
   	- [x] 🖥 OSEP - Chapter 8 + Notes
   	- [x] 🖥 OSEP - Chapter 9 + Notes
-  	- [ ] 🖥 OSEP - Chapter 10 + Notes
+  	- [x] 🖥 OSEP - Chapter 10 + Notes
   	- [ ] 🖥 OSEP - Chapter 11 + Notes
   	- [ ] 🖥 OSEP - Chapter 12 + Notes
   - [ ] 🖥 OSEP - Videos (2x speed):
@@ -37,7 +37,7 @@ Let's get it! 💪
   	- [x] 🖥 OSEP - Chapter 7
   	- [x] 🖥 OSEP - Chapter 8
   	- [x] 🖥 OSEP - Chapter 9
-  	- [ ] 🖥 OSEP - Chapter 10
+  	- [x] 🖥 OSEP - Chapter 10
   	- [ ] 🖥 OSEP - Chapter 11
   	- [ ] 🖥 OSEP - Chapter 12
   - [ ] 🖥 OSEP - challenge Labs:

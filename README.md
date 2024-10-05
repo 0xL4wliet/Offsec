@@ -66,3 +66,51 @@ Let's get it! 💪
   	- [x] 🐧 KLCP - Chapter 1
   	- [x] 🐧 KLCP - Chapter 2
 ---
+### Day #2 - 05-10-2024
+#### OSEP $${\color{green}(OSEP: -22 Days)}$$ 
+
+- Duration: .. TBD..
+- Tasks:
+  - [ ]  🖥 OSEP - PDF:
+  	- [x] 🖥 OSEP - Chapter 12 + Notes
+  	- [ ] 🖥 OSEP - Chapter 13 + Notes
+  	- [ ] 🖥 OSEP - Chapter 14 + Notes
+  	- [ ] 🖥 OSEP - Chapter 15 + Notes
+  	- [ ] 🖥 OSEP - Chapter 16 + Notes
+  	- [ ] 🖥 OSEP - Chapter 17 + Notes
+  	- [ ] 🖥 OSEP - Chapter 18 + Notes
+  	- [ ] 🖥 OSEP - Chapter 19 + Notes
+  - [ ] 🖥 OSEP - Videos:
+  	- [x] 🖥 OSEP - Chapter 12
+  	- [ ] 🖥 OSEP - Chapter 13
+  	- [ ] 🖥 OSEP - Chapter 14
+  	- [ ] 🖥 OSEP - Chapter 15
+  	- [ ] 🖥 OSEP - Chapter 16
+  	- [ ] 🖥 OSEP - Chapter 17
+  	- [ ] 🖥 OSEP - Chapter 18
+  	- [ ] 🖥 OSEP - Chapter 19
+  - [ ] 🖥 OSEP - challenge Labs:
+  	- [ ] 🖥 OSEP - Challenge Lab - 2
+  	- [ ] 🖥 OSEP - Challenge Lab - 1 - Redo
+
+##### Modules (Chapters Progress
+.. TBD..
+
+##### Challenge Labs Progress
+.. TBD..
+
+#### OSWP $${\color{blue}(OSWP: -22 Days)}$$ 
+- Duration: .. TBD..
+- Tasks:
+  - [ ] 🛜 OSWP - PDF:
+  	- [ ] 🛜 OSWP - Chapter 3
+  	- [ ] 🛜 OSWP - Chapter 4
+  - [ ] 🛜 OSWP - Videos: N/A
+
+#### KLCP $${\color{gray}(KLCP: -22 Days)}$$ 
+- Duration: .. TBD..
+- Tasks:
+  - [ ] 🐧 KLCP - PDF:
+  	- [ ] 🐧 KLCP - Chapter 3
+  	- [ ] 🐧 KLCP - Chapter 4
+---

@@ -73,7 +73,7 @@ Let's get it! 💪
 - Tasks:
   - [ ]  🖥 OSEP - PDF:
   	- [x] 🖥 OSEP - Chapter 12 + Notes
-  	- [ ] 🖥 OSEP - Chapter 13 + Notes
+  	- [x] 🖥 OSEP - Chapter 13 + Notes
   	- [ ] 🖥 OSEP - Chapter 14 + Notes
   	- [ ] 🖥 OSEP - Chapter 15 + Notes
   	- [ ] 🖥 OSEP - Chapter 16 + Notes
@@ -82,7 +82,7 @@ Let's get it! 💪
   	- [ ] 🖥 OSEP - Chapter 19 + Notes
   - [ ] 🖥 OSEP - Videos:
   	- [x] 🖥 OSEP - Chapter 12
-  	- [ ] 🖥 OSEP - Chapter 13
+  	- [x] 🖥 OSEP - Chapter 13
   	- [ ] 🖥 OSEP - Chapter 14
   	- [ ] 🖥 OSEP - Chapter 15
   	- [ ] 🖥 OSEP - Chapter 16

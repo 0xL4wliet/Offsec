@@ -94,20 +94,20 @@ Let's get it! 💪
 
 - Duration: ... TBD ..
 - Tasks:
-  - [ ]  🖥 OSEP - PDF:
+  - [x]  🖥 OSEP - PDF:
   	- [x] 🖥 OSEP - Chapter 14 + Notes - Redo
   	- [x] 🖥 OSEP - Chapter 15 + Notes
   	- [x] 🖥 OSEP - Chapter 16 + Notes
-  	- [ ] 🖥 OSEP - Chapter 17 + Notes
-  	- [ ] 🖥 OSEP - Chapter 18 + Notes
-  	- [ ] 🖥 OSEP - Chapter 19 + Notes
-  - [ ] 🖥 OSEP - Videos:
+  	- [x] 🖥 OSEP - Chapter 17 + Notes
+  	- [x] 🖥 OSEP - Chapter 18 + Notes
+  	- [x] 🖥 OSEP - Chapter 19 + Notes
+  - [x] 🖥 OSEP - Videos:
   	- [x] 🖥 OSEP - Chapter 14 - Redo
   	- [x] 🖥 OSEP - Chapter 15
   	- [x] 🖥 OSEP - Chapter 16
-  	- [ ] 🖥 OSEP - Chapter 17
-  	- [ ] 🖥 OSEP - Chapter 18
-  	- [ ] 🖥 OSEP - Chapter 19
+  	- [x] 🖥 OSEP - Chapter 17
+  	- [x] 🖥 OSEP - Chapter 18
+  	- [x] 🖥 OSEP - Chapter 19
   - [ ] 🖥 OSEP - challenge Labs:
   	- [ ] 🖥 OSEP - Challenge Lab - 2 - Complete it
   	- [ ] 🖥 OSEP - Challenge Lab - 1 - Redo

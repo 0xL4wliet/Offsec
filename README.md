@@ -92,7 +92,7 @@ Let's get it! 💪
 ### Day #3 - 06-10-2024
 #### OSEP $${\color{green}(OSEP: -21 Days)}$$ 
 
-- Duration: ... TBD ..
+- Duration: 13h 48m 56s
 - Tasks:
   - [x]  🖥 OSEP - PDF:
   	- [x] 🖥 OSEP - Chapter 14 + Notes - Redo
@@ -114,7 +114,7 @@ Let's get it! 💪
   	- [ ] 🖥 OSEP - Challenge Lab - 3
 
 #### OSWP $${\color{blue}(OSWP: -21 Days)}$$ 
-- Duration: ... TBD ..
+- Duration: N/A ==> Reported
 - Tasks:
   - [ ] 🛜 OSWP - PDF:
   	- [ ] 🛜 OSWP - Chapter 3
@@ -122,7 +122,7 @@ Let's get it! 💪
   - [ ] 🛜 OSWP - Videos: N/A
 
 #### KLCP $${\color{gray}(KLCP: -21 Days)}$$ 
-- Duration: ... TBD ..
+- Duration: N/A ==> Reported
 - Tasks:
   - [ ] 🐧 KLCP - PDF:
   	- [ ] 🐧 KLCP - Chapter 3

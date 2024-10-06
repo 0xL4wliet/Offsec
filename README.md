@@ -97,14 +97,14 @@ Let's get it! 💪
   - [ ]  🖥 OSEP - PDF:
   	- [x] 🖥 OSEP - Chapter 14 + Notes - Redo
   	- [x] 🖥 OSEP - Chapter 15 + Notes
-  	- [ ] 🖥 OSEP - Chapter 16 + Notes
+  	- [x] 🖥 OSEP - Chapter 16 + Notes
   	- [ ] 🖥 OSEP - Chapter 17 + Notes
   	- [ ] 🖥 OSEP - Chapter 18 + Notes
   	- [ ] 🖥 OSEP - Chapter 19 + Notes
   - [ ] 🖥 OSEP - Videos:
   	- [x] 🖥 OSEP - Chapter 14 - Redo
   	- [x] 🖥 OSEP - Chapter 15
-  	- [ ] 🖥 OSEP - Chapter 16
+  	- [x] 🖥 OSEP - Chapter 16
   	- [ ] 🖥 OSEP - Chapter 17
   	- [ ] 🖥 OSEP - Chapter 18
   	- [ ] 🖥 OSEP - Chapter 19

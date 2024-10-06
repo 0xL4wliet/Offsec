@@ -41,16 +41,6 @@ Let's get it! 💪
   - [x] 🖥 OSEP - challenge Labs:
   	- [x] 🖥 OSEP - Challenge Lab - 1
 
-##### Modules (Chapters Progress
-<p align="center">
-<img src=./img/osep_modules_day_1.png width=100% >
-</p>
-
-##### Challenge Labs Progress
-<p align="center">
-<img src=./img/osep_chall_day_1.png width=100% >
-</p>
-
 #### OSWP $${\color{blue}(OSWP: -23 Days)}$$ 
 - Duration: 30 min
 - Tasks:
@@ -69,38 +59,23 @@ Let's get it! 💪
 ### Day #2 - 05-10-2024
 #### OSEP $${\color{green}(OSEP: -22 Days)}$$ 
 
-- Duration: .. TBD..
+- Duration: 7h
 - Tasks:
-  - [ ]  🖥 OSEP - PDF:
+  - [x]  🖥 OSEP - PDF:
   	- [x] 🖥 OSEP - Chapter 12 + Notes
   	- [x] 🖥 OSEP - Chapter 13 + Notes
   	- [x] 🖥 OSEP - Chapter 14 + Notes
-  	- [ ] 🖥 OSEP - Chapter 15 + Notes
-  	- [ ] 🖥 OSEP - Chapter 16 + Notes
-  	- [ ] 🖥 OSEP - Chapter 17 + Notes
-  	- [ ] 🖥 OSEP - Chapter 18 + Notes
-  	- [ ] 🖥 OSEP - Chapter 19 + Notes
-  - [ ] 🖥 OSEP - Videos:
+  - [x] 🖥 OSEP - Videos:
   	- [x] 🖥 OSEP - Chapter 12
   	- [x] 🖥 OSEP - Chapter 13
   	- [x] 🖥 OSEP - Chapter 14
-  	- [ ] 🖥 OSEP - Chapter 15
-  	- [ ] 🖥 OSEP - Chapter 16
-  	- [ ] 🖥 OSEP - Chapter 17
-  	- [ ] 🖥 OSEP - Chapter 18
-  	- [ ] 🖥 OSEP - Chapter 19
-  - [ ] 🖥 OSEP - challenge Labs:
-  	- [ ] 🖥 OSEP - Challenge Lab - 2
-  	- [ ] 🖥 OSEP - Challenge Lab - 1 - Redo
+  - [x] 🖥 OSEP - challenge Labs:
+  	- [x] 🖥 OSEP - Challenge Lab - 2
+  	- [x] 🖥 OSEP - Challenge Lab - 1 - Redo
 
-##### Modules (Chapters Progress
-.. TBD..
-
-##### Challenge Labs Progress
-.. TBD..
 
 #### OSWP $${\color{blue}(OSWP: -22 Days)}$$ 
-- Duration: .. TBD..
+- Duration: None => reported
 - Tasks:
   - [ ] 🛜 OSWP - PDF:
   	- [ ] 🛜 OSWP - Chapter 3
@@ -108,7 +83,7 @@ Let's get it! 💪
   - [ ] 🛜 OSWP - Videos: N/A
 
 #### KLCP $${\color{gray}(KLCP: -22 Days)}$$ 
-- Duration: .. TBD..
+- Duration: None => reported
 - Tasks:
   - [ ] 🐧 KLCP - PDF:
   	- [ ] 🐧 KLCP - Chapter 3

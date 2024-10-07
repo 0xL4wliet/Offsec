@@ -127,3 +127,28 @@ Let's get it! 💪
   - [ ] 🐧 KLCP - PDF:
   	- [ ] 🐧 KLCP - Chapter 3
   	- [ ] 🐧 KLCP - Chapter 4
+---
+### Day #4 - 07-10-2024
+#### OSEP $${\color{green}(OSEP: -20 Days)}$$ 
+
+- Duration: ... TBD ...
+- Tasks:
+  - [x] 🖥 OSEP - challenge Labs:
+  	- [x] 🖥 OSEP - Challenge Lab - 1
+  	- [x] 🖥 OSEP - Challenge Lab - 2
+  	- [x] 🖥 OSEP - Challenge Lab - 3
+
+#### OSWP $${\color{blue}(OSWP: -20 Days)}$$ 
+- Duration: N/A ==> Reported
+- Tasks:
+  - [ ] 🛜 OSWP - PDF:
+  	- [ ] 🛜 OSWP - Chapter 3
+  	- [ ] 🛜 OSWP - Chapter 4
+  - [ ] 🛜 OSWP - Videos: N/A
+
+#### KLCP $${\color{gray}(KLCP: -20 Days)}$$ 
+- Duration: N/A ==> Reported
+- Tasks:
+  - [ ] 🐧 KLCP - PDF:
+  	- [ ] 🐧 KLCP - Chapter 3
+  	- [ ] 🐧 KLCP - Chapter 4

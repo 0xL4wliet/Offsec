@@ -131,7 +131,7 @@ Let's get it! 💪
 ### Day #4 - 07-10-2024
 #### OSEP $${\color{green}(OSEP: -20 Days)}$$ 
 
-- Duration: ... TBD ...
+- Duration: 10h 1m 21s
 - Tasks:
   - [x] 🖥 OSEP - challenge Labs:
   	- [x] 🖥 OSEP - Challenge Lab - 1
@@ -147,6 +147,30 @@ Let's get it! 💪
   - [ ] 🛜 OSWP - Videos: N/A
 
 #### KLCP $${\color{gray}(KLCP: -20 Days)}$$ 
+- Duration: N/A ==> Reported
+- Tasks:
+  - [ ] 🐧 KLCP - PDF:
+  	- [ ] 🐧 KLCP - Chapter 3
+  	- [ ] 🐧 KLCP - Chapter 4
+---
+### Day #5 - 08-10-2024
+#### OSEP $${\color{green}(OSEP: -19 Days)}$$ 
+- Duration: ... TBD ...
+- Tasks:
+  - [x] 🖥 OSEP - challenge Labs:
+  	- [x] 🖥 OSEP - Challenge Lab - 1
+  	- [x] 🖥 OSEP - Challenge Lab - 2
+  	- [x] 🖥 OSEP - Challenge Lab - 3
+
+#### OSWP $${\color{blue}(OSWP: -19 Days)}$$ 
+- Duration: N/A ==> Reported
+- Tasks:
+  - [ ] 🛜 OSWP - PDF:
+  	- [ ] 🛜 OSWP - Chapter 3
+  	- [ ] 🛜 OSWP - Chapter 4
+  - [ ] 🛜 OSWP - Videos: N/A
+
+#### KLCP $${\color{gray}(KLCP: -19 Days)}$$ 
 - Duration: N/A ==> Reported
 - Tasks:
   - [ ] 🐧 KLCP - PDF:

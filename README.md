@@ -265,7 +265,7 @@ Let's get it! 💪
 ---
 ### Day #9 - 12-10-2024
 #### OSEP $${\color{green}(OSEP: -15 Days)}$$ 
-- Duration: ... TBD ..
+- Duration: 11h 30m
 - Tasks:
   - [x] 🖥 OSEP - challenge Labs:
   	- [x] 🖥 OSEP - Challenge Lab - 1 (✅↻)

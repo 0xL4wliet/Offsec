@@ -275,7 +275,7 @@ Let's get it! 💪
   	- [x] 🖥 OSEP - Challenge Lab - 5 (🟠↻)
   	- [ ] 🖥 OSEP - Challenge Lab - 6
   
-  - [ ] 🖥 OSEP - Chapters ->  Final Review:
+  - [x] 🖥 OSEP - Chapters ->  Final Review:
   	- [x] 🖥 OSEP - Chapter 0 (💯✅) => 🏆
   	- [x] 🖥 OSEP - Chapter 1 (💯✅) => 🏆
   	- [x] 🖥 OSEP - Chapter 2 (💯✅) => 🏆
@@ -286,6 +286,42 @@ Let's get it! 💪
   	- [x] 🖥 OSEP - Chapter 7 (💯✅) => 🏆⭐
   	- [x] 🖥 OSEP - Chapter 8 (💯✅) => 🏆⭐
   	- [x] 🖥 OSEP - Chapter 9 (💯✅) => 🏆✍️
+
+#### OSWP $${\color{blue}(OSWP: -15 Days)}$$ 
+- Duration: N/A ==> Reported
+- Tasks:
+  - [ ] 🛜 OSWP - PDF:
+  	- [ ] 🛜 OSWP - Chapter 3
+  	- [ ] 🛜 OSWP - Chapter 4
+  - [ ] 🛜 OSWP - Videos: N/A
+
+#### KLCP $${\color{gray}(KLCP: -15 Days)}$$ 
+- Duration: N/A ==> Reported
+- Tasks:
+  - [ ] 🐧 KLCP - PDF:
+  	- [ ] 🐧 KLCP - Chapter 3
+  	- [ ] 🐧 KLCP - Chapter 4
+
+---
+### Day #10 - 13-10-2024
+#### OSEP $${\color{green}(OSEP: -15 Days)}$$ 
+- Duration: 10h 55m
+- Tasks:
+  - [x] 🖥 OSEP - challenge Labs:
+    - 🖥 OSEP - Challenge Lab - 1 (✅↻) => 🏆
+    - 🖥 OSEP - Challenge Lab - 2 (✅↻)
+    - 🖥 OSEP - Challenge Lab - 3 (🟠↻)
+    - 🖥 OSEP - Challenge Lab - 4 (🟠↻)
+    - 🖥 OSEP - Challenge Lab - 5 (🟠↻)
+
+  - [x] 🖥 OSEP - Chapters ->  Final Review:
+  	- 🖥 OSEP - Chapter 10 (💯✅) => 🏆⭐✍️
+  	- 🖥 OSEP - Chapter 11 (💯✅) => 🏆
+  	- 🖥 OSEP - Chapter 12 (💯✅) => 🏆⭐
+  	- 🖥 OSEP - Chapter 13 (💯✅) => 🏆⭐
+  	- 🖥 OSEP - Chapter 14 (💯✅) => 🏆⭐
+  	- 🖥 OSEP - Chapter 15 (💯✅) => 🏆⭐
+  	- 🖥 OSEP - Chapter 16 (💯✅) => 🏆⭐🧠
 
 #### OSWP $${\color{blue}(OSWP: -15 Days)}$$ 
 - Duration: N/A ==> Reported

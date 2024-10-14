@@ -337,3 +337,29 @@ Let's get it! 💪
   - [ ] 🐧 KLCP - PDF:
   	- [ ] 🐧 KLCP - Chapter 3
   	- [ ] 🐧 KLCP - Chapter 4
+---
+### Day #11 - 14-10-2024
+#### OSEP $${\color{green}(OSEP: -15 Days)}$$ 
+- Duration: .. TBD ..
+- Tasks:
+  - [x] 🖥 OSEP - challenge Labs:
+  	- [x] 🖥 OSEP - Challenge Lab - 1 (✅↻) => 🏆
+  	- [x] 🖥 OSEP - Challenge Lab - 2 (✅↻) => 🏆
+  	- [x] 🖥 OSEP - Challenge Lab - 3 (✅↻) => 🏆✍️
+  	- [x] 🖥 OSEP - Challenge Lab - 4 (✅↻) => 🏆✍️
+
+
+#### OSWP $${\color{blue}(OSWP: -15 Days)}$$ 
+- Duration: N/A ==> Reported
+- Tasks:
+  - [ ] 🛜 OSWP - PDF:
+  	- [ ] 🛜 OSWP - Chapter 3
+  	- [ ] 🛜 OSWP - Chapter 4
+  - [ ] 🛜 OSWP - Videos: N/A
+
+#### KLCP $${\color{gray}(KLCP: -15 Days)}$$ 
+- Duration: N/A ==> Reported
+- Tasks:
+  - [ ] 🐧 KLCP - PDF:
+  	- [ ] 🐧 KLCP - Chapter 3
+  	- [ ] 🐧 KLCP - Chapter 4
